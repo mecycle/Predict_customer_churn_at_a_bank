@@ -2,6 +2,7 @@
 a data analysis program from Kaggle
 
 ## Project Flow
+<img src="results/project flow.png" width="80%" height="80%" alt = "where"> 
 
 
 ## Exploratory Data Analysis
