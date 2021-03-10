@@ -8,7 +8,7 @@ import seaborn as sns
 pd.options.display.max_rows = None
 pd.options.display.max_columns = None
 # Read the data frame
-df = pd.read_csv('C:/Users/dageb/Documents/Churn_Modelling.csv', delimiter=',')
+df = pd.read_csv('../Churn_Modelling.csv', delimiter=',')
 # df.shape
 # print(df.shape)
 # df.isnull().sum()
