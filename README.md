@@ -1,5 +1,5 @@
 # Predicting Customer Churn at a Bank
-a data analysis program from Kaggle
+A data analysis program from Kaggle
 
 ## Project Flow
 <img src="results/project flow.png" width="80%" height="80%" alt = "where"> 
@@ -8,8 +8,8 @@ a data analysis program from Kaggle
 ## Exploratory Data Analysis
 <img src="results/box plots.png" width="40%" height="40%" alt = "where"> 
 <ul>
-  <li> no significant difference in the credit score distribution.</li>
-  <li> older customers are churning at higher rate than the younger ones.</li>
+  <li> No significant difference in the credit score distribution.</li>
+  <li> Older customers are churning at higher rate than the younger ones.</li>
   <li> No significant difference in products and salary.</li>
 </ul>
 
